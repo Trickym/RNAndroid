@@ -1,7 +1,7 @@
 ## React Native Integration in Android
 
 ## Description
-Integrating react native with existing Android and native projects.
+Integrating react native with existing Android projects.
 
 ## How to run
 * Clone this repository.
