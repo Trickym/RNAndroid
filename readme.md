@@ -1,4 +1,4 @@
-#React Native Integration in Android
+## React Native Integration in Android
 
 ## Description
 Integrating react native with existing Android and native projects.
